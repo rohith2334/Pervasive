@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "908929810210",
+    "firebase_url": "https://testcloudfunction-39eee.firebaseio.com",
+    "project_id": "testcloudfunction-39eee",
+    "storage_bucket": "testcloudfunction-39eee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908929810210:android:69e6539083aaa409e12f7b",
+        "android_client_info": {
+          "package_name": "com.bnb.antovid.antovid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908929810210-pskt30pjgi3fnga731368ss5aqhtc4gj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7a-rvzp8o8NzC86eNq5ruHJM0Geb0otw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908929810210-pskt30pjgi3fnga731368ss5aqhtc4gj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
